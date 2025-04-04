@@ -1,0 +1,69 @@
+table{width: 100%;
+  }
+
+body
+{
+    margin: 0;
+}
+
+td
+{
+    background-color: #313131;
+    width: 10%;
+    height: 10%;
+}
+.sms{color: rgb(255, 255, 255);font-size: 66px;text-align: center;}
+
+.chapeu{text-align: center;background-color: #757575; }
+
+.menu{text-align: center;background-color: #757575; }
+
+.qm{text-align: center;color: #313131; text-decoration: none; }
+.qm1{background-color: #757575;}
+
+.pr{text-align: center;color: #313131; text-decoration: none;}
+.pr1{background-color: #757575;}
+
+.cn{text-align: center;color: #313131; text-decoration: none; }
+.cn1{background-color: #757575;}
+
+.lupa{text-align: center;background-color: #757575; }
+
+.mundo{text-align: center; background-color: #757575; }
+
+.perfil{text-align: center; background-color: #757575; }
+
+.claro{background-color: #757575;width: 20%;}
+
+.nome{text-align: left; color: white;font-size: 20px; }
+
+.telefone{text-align: left; color: white;font-size: 20px; }
+
+.email{text-align: left; color: white;font-size: 20px; }
+
+.contato{text-align: center; color: white;font-size: 70px;}
+
+.image-button {background-color: #757575; border: none; cursor: pointer; padding: 0; text-align: right;}
+
+.altura{height: 50vh;}
+
+.k{height: 5vh;}
+
+.u{height: 40vh;}
+
+.b{height: 5vh; background-color: #757575;}
+
+.em{color: white; font-size: 40px;}
+
+input {
+    border-radius: 1em;
+}
+
+.e{background-color: #757575;}
+
+.er{background-color: #757575; height: 2vh;}
+
+.tamanho{width: 370px; height: 30px;}
+.tamanhoe{width: 380px; height: 30px;}
+
+

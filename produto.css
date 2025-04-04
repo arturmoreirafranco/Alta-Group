@@ -1,0 +1,53 @@
+table{width: 100%;
+   }
+
+body
+{
+    margin: 0;
+}
+
+td
+{
+    background-color: #313131;
+    width: 10%;
+    height: 10%;
+}
+.sms{color: rgb(255, 255, 255);
+font-size: 66px;
+text-align: center;}
+.chapeu{text-align: center;background-color: #757575;}
+
+.menu{text-align: center;background-color: #757575;}
+
+.qm{text-align: center;color: #313131;text-decoration: none;}
+.qm1{background-color: #757575;}
+
+.pr{text-align: center;color: #313131;text-decoration: none;}
+.pr1{background-color: #757575;}
+
+.cn{text-align: center;color: #313131;text-decoration: none;}
+.cn1{background-color: #757575;}
+
+.lupa{text-align: center;background-color: #757575;}
+
+.mundo{text-align: center; background-color: #757575;}
+
+.perfil{text-align: center; background-color: #757575;}
+
+.claro{background-color: #757575;width: 20%;}
+
+.mae{text-align: left; font-size: 20px; color: white;}
+
+.video{text-align: left; font-size: 20px; color: white;}
+
+.pc{text-align: left; font-size: 20px; color: white;}
+
+.image-button {background-color: #757575; border: none; cursor: pointer; padding: 0; text-align: right;}
+
+.verde{color: #00FF11;text-align: left;}
+
+.m{height: 5vh;}
+.ç{height: 5vh;}
+.l{height: 5vh;}
+.p{height: 17vh;}
+
